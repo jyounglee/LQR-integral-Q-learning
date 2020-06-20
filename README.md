@@ -1,5 +1,4 @@
 # LQR-integral-Q-learning
-The code to reproduce integral Q-learning simulation result  presented in Automatica 11(48), 2850--2859, 2012.
 
 This repository provides the open source code used to reproduce the simulation results (Fig 1(a),(d)) presented in the publication:
 
