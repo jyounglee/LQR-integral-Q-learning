@@ -8,7 +8,7 @@ To reproduce the results in the paper, please run the code as follows (tested in
 
 1. Set the MATLAB working directory to the cloned local repository path in your machine;
     
-2, Clear the environment using the following commands:
+2. Clear the environment using the following commands:
 ``` octave-workspace 	
 	close all
 	clear all
